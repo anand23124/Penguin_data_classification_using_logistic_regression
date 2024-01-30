@@ -33,7 +33,7 @@ To run the project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/penguin-classification.git
+    git clone https://github.com/anand23124/penguin-classification.git
     cd penguin-classification
     ```
 
